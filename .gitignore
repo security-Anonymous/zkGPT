@@ -1,0 +1,11 @@
+data/
+cmake*/
+output/
+*.cbp
+*.cmake
+*.a
+Makefile
+CMakeFiles/
+CMakeCache.txt
+src/CMakeFiles/
+.vscode
